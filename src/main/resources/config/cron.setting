@@ -1,0 +1,2 @@
+[cn.iceroot.db_ladder.task]
+FileWriteTask.write=*/5 * * * *
